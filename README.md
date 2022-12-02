@@ -1,4 +1,4 @@
-# CheckHttpsCertExpirationDate
+# Check HTTPS certificate expiration
 
 Just edit `checks` list in a file and run script:
 
